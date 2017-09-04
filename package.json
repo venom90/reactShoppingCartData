@@ -1,0 +1,22 @@
+{
+  "name": "reactshoppingcartdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch cart.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venom90/reactShoppingCartData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venom90/reactShoppingCartData/issues"
+  },
+  "homepage": "https://github.com/venom90/reactShoppingCartData#readme",
+  "dependencies": {
+    "json-server": "^0.12.0"
+  }
+}
