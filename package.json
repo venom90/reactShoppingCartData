@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch cart.json"
+    "start": "json-server --watch cart.json"
   },
   "repository": {
     "type": "git",
